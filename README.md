@@ -1,4 +1,5 @@
-Explanation of my project:
+How my project works:
+
 When you run my program, you will start off with 3 options: Each one will lead to a different interface.
 I implemented, the Customer online reservation access interface, Front-desk agent, and Housekeeping
 For my customer interface: On the main menu, press 1 to go into the customer reservation interface:
